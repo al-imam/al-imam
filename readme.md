@@ -1,14 +1,11 @@
-## Hi! my name is al-imam
+***Hi, I am imam! I'm undergraduate student in Lakshmipur Polytechnic Institute, I was born and live in Bangladesh, Noakhali.***
 
-### junior web developer and designer
+- 🌍  I'm based in Bangladesh.
+- ✉️  You can contact me at [alimam01828@gmail.com](mailto:alimam01828@gmail.com).
+- 🧠  I'm learning typescript and react.
+- 🤝  I'm open to collaborating on React project.
+- ⚡  I am big fan of fictional character Berlin.
 
-<p>Hi, I am imam! I'm undergraduate student in Lakshmipur Polytechnic Institute, I was born and live in Bangladesh, Noakhali.</p>
-
-- 🌍  I'm based in Bangladesh
-- ✉️  You can contact me at [alimam01828@gmail.com](mailto:alimam01828@gmail.com)
-- 🧠  I'm learning typescript and react
-- 🤝  I'm open to collaborating on React project!
-- ⚡  I am big fan of fictional character Berlin
 
 <a href="https://www.github.com/al-imam" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/al-imam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
