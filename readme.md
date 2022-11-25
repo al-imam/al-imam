@@ -1,16 +1,23 @@
 **_Hi, I am imam! I'm undergraduate student in Lakshmipur Polytechnic Institute, I was born and live in Bangladesh, Noakhali._**
 
-- 🌍  I'm based in Bangladesh.
-- ✉️  You can contact me at [alimam01828@gmail.com](mailto:alimam01828@gmail.com).
-- 🧠  I'm learning typescript and react.
-- 🤝  I'm open to collaborating on React project.
-- ⚡  I am big fan of fictional character Berlin.
+<hr>
 
-> <a href="https://www.github.com/al-imam" target="_blank" rel="noreferrer">
-> <img src="https://img.shields.io/github/followers/al-imam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-> </a>
+<dl>
+<dd>🌍 I'm based in Bangladesh.</dd>
+<dd>✉️ You can contact me at <a href="mailto:alimam01828@gmail.com">alimam01828@gmail.com</a>.</dd>
+<dd>🧠 I'm learning typescript and react.
+<dd>🤝 I'm open to collaborating on React project.</dd>
+<dd>⚡ I am big fan of fictional character Berlin.</dd>
+</dl>
 
-**Skills**
+
+<dl>
+<dd><img src="https://img.shields.io/github/followers/al-imam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"></dd>
+</dl>
+
+<hr>
+
+**<p align="left">skills</p>**
 
 <p>
 <div align="center">
@@ -40,7 +47,9 @@
 </div>
 </p>
 
-**Socials**
+<hr>
+
+**<p align="left">socials</p>**
 
 <p>
 <div align="center">
@@ -62,20 +71,16 @@
 </div>
 </p>
 
-**committe graph**
+<hr>
 
-> <a href="http://www.github.com/al-imam">
-> <img src="https://activity-graph.herokuapp.com/graph?username=al-imam&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-> </a>
+**<p align="center">GITHUB</p>**
 
-**repository**
-
-> <div width="100%" align="center">
-> <a href="https://github.com/al-imam/search-filter" align="left">
-> <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=al-imam&repo=search-filter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-> </a>
-> <a href="https://github.com/al-imam/facebook-login" align="right">
-> <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=al-imam&repo=facebook-login&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-> </a>
-
+<div width="100%" align="center">
+<a href="http://www.github.com/al-imam" >
+<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=al-imam&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
 </div>
+
+<hr>
+
+> **have nice day** 💖✨
