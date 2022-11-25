@@ -3,11 +3,11 @@
 <hr>
 
 <dl>
-<dd>🌍 I'm based in Bangladesh.</dd>
-<dd>✉️ You can contact me at <a href="mailto:alimam01828@gmail.com">alimam01828@gmail.com</a>.</dd>
-<dd>🧠 I'm learning typescript and react.
-<dd>🤝 I'm open to collaborating on React project.</dd>
-<dd>⚡ I am big fan of fictional character Berlin.</dd>
+<dd>🌍 <b>I am based in Bangladesh.</b></dd>
+<dd>✉️ <b>You can contact me at <a href="mailto:alimam01828@gmail.com">alimam01828@gmail.com</a>.</b></dd>
+<dd>🧠 <b>I am learning typescript and react.</b></dd>
+<dd>🤝 <b>I am open to collaborating on React project.</b></dd>
+<dd>⚡ <b>I am big fan of fictional character Berlin.</b></dd>
 </dl>
 
 
