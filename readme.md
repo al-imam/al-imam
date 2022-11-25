@@ -4,7 +4,7 @@
 
 <dl>
 <dd>🌍 <b>I am based in Bangladesh.</b></dd>
-<dd>✉️ <b>You can contact me at <a href="mailto:alimam01828@gmail.com">alimam01828@gmail.com</a>.</b></dd>
+<dd>✉️ <b>You can contact me at <a href="mailto:alimam01828@gmail.com"><ins>alimam01828@gmail.com</ins></a>!</b></dd>
 <dd>🧠 <b>I am learning typescript and react.</b></dd>
 <dd>🤝 <b>I am open to collaborating on React project.</b></dd>
 <dd>⚡ <b>I am big fan of fictional character Berlin.</b></dd>
@@ -77,10 +77,10 @@
 
 <div width="100%" align="center">
 <a href="http://www.github.com/al-imam" >
-<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=al-imam&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=al-imam&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=al-imam%20commits%20graph" alt="al-imam commits graph" />
 </a>
 </div>
 
 <hr>
 
-> **have nice day** 💖✨
+> **Have a nice day** 💖✨
