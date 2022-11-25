@@ -4,9 +4,9 @@
 
 <dl>
 <dd>🌍 <b>I am based in Bangladesh.</b></dd>
-<dd>✉️ <b>You can contact me at <a href="mailto:alimam01828@gmail.com"><ins>alimam01828@gmail.com</ins></a>!</b></dd>
 <dd>🧠 <b>I am learning typescript and react.</b></dd>
 <dd>🤝 <b>I am open to collaborating on React project.</b></dd>
+<dd>✉️ <b>You can contact me at <ins><a href="mailto:alimam01828@gmail.com">alimam01828@gmail.com</a></ins>!</b></dd>
 <dd>⚡ <b>I am big fan of fictional character Berlin.</b></dd>
 </dl>
 
