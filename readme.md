@@ -2,84 +2,47 @@
 
 <hr>
 
-<dl>
-<dd>🌍 <b>I am based in Bangladesh.</b></dd>
-<dd>🧠 <b>I am learning typescript and react.</b></dd>
-<dd>🤝 <b>I am open to collaborating on React project.</b></dd>
-<dd>✉️ <b>You can contact me at <ins><a href="mailto:alimam01828@gmail.com">alimam01828@gmail.com</a></ins>!</b></dd>
-<dd>⚡ <b>I am big fan of fictional character Berlin.</b></dd>
-</dl>
+- 🔭 I’m currently working on react.
+- 👯 I’m looking to collaborate on single page application.
+- 🌱 I’m currently learning typescript and svelte.
+- 💬 Ask me about JavaScript and react.
+- ⚡ Fun fact I prefer tea to coffee 😩
 
 
-<dl>
-<dd><img src="https://img.shields.io/github/followers/al-imam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"></dd>
-</dl>
+[![](https://visitcount.itsvg.in/api?id=al-imam&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<hr>
+
+
+**<p align="left">socials</p>**
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Al-Imam#4919) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alimam.nirob) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/al_imam_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alimam) 
+
 
 <hr>
 
 **<p align="left">skills</p>**
 
-<p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-node-339933?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwind css&logoColor=06B6D4&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=DD3A0A&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-jss-F7DF1E?style=for-the-badge&logo=jss&logoColor=F7DF1E&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-zustand-CC2936?style=for-the-badge&logo=Zotero&logoColor=CC2936&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=8DD6F9&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=F9DC3E&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-express js-000?style=for-the-badge&logo=express&logoColor=fff&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=2C8EBB&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-vs code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=007ACC&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
-  <img src="https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=iTerm2&logoColor=fff&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?&logo=JavaScript&logoColor=F7DF1E&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Typescript-3178C6?&logo=typescript&logoColor=3178C6&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Node-339933?&logo=Node.js&logoColor=339933&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=3776AB&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=E34F26&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=1572B6&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=61DAFB&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Postcss-DD3A0A?&logo=postcss&logoColor=DD3A0A&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Jss-F7DF1E?&logo=jss&logoColor=F7DF1E&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Express js-000?&logo=express&logoColor=fff&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-NPM-CB3837?&logo=npm&logoColor=CB3837&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Yarn-2C8EBB?&logo=yarn&logoColor=2C8EBB&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Mongodb-47A248?&logo=mongodb&logoColor=47A248&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=F05032&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=fff&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
+  <img src="https://img.shields.io/badge/-VS Code-007ACC?&logo=visual studio code&logoColor=007ACC&labelColor=282828" width="auto" height="30px" style="border-radius:5px">
 </div>
-</p>
 
-<hr>
 
-**<p align="left">socials</p>**
-
-<p>
-<div align="center">
-<a href="https://discord.com/users/nirob_69" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-discord-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=282828" width="auto" height="30px" style="border-radius:5px" />
-</a>
-<a href="https://www.facebook.com/alimam.nirob" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=282828" width="auto" height="30px" style="border-radius:5px" />
-</a>
-<a href="https://www.github.com/al-imam" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=282828" width="auto" height="30px" style="border-radius:5px" />
-</a>
-<a href="http://www.instagram.com/al_imam_x" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=282828" width="auto" height="30px" style="border-radius:5px" />
-</a>           
-<a href="https://www.linkedin.com/in/alimam" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&labelColor=282828" width="auto" height="30px" style="border-radius:5px" />
-</a>
-</div>
-</p>
-
-<hr>
-
-**<p align="center">GITHUB</p>**
-
-<div width="100%" align="center">
-<a href="http://www.github.com/al-imam" >
-<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=al-imam&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=al-imam%20commits%20graph" alt="al-imam commits graph" />
-</a>
-</div>
 
 <hr>
 
