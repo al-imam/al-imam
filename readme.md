@@ -1,4 +1,4 @@
-**_Hi, I am imam! I'm undergraduate student in Lakshmipur Polytechnic Institute, I was born and live in Bangladesh, Noakhali._**
+**_Hi🖐️, I am Imam! I am currently an undergraduate student studying at Lakshmipur Polytechnic Institute. I was born and raised in Bangladesh, specifically in a town called Noakhali. I am proud of my roots and enjoy sharing about my culture and background with others. Being a student and growing up in Bangladesh have shaped who I am today 😊_**
 
 <hr>
 
