@@ -1,7 +1,5 @@
-# Hey, Imam here
-
 <p >
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello, Imam here&height=150&section=header" width="100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey,%20Imam%20here&height=150&section=header" alt="Hey, Imam here!" />
 </p>
 
 _*A web developer focused on React, TailwindCSS, TypeScript and Express. Excited to network and share insights on web development. Feel free to contact me if you need help building robust and efficient web applications, or want to discuss the latest trends!*_
@@ -52,4 +50,8 @@ _*A web developer focused on React, TailwindCSS, TypeScript and Express. Excited
   </a><a href="https://instagram.com/al_imam_x">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+</p>
+
+<p >
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Good%20Bye&height=80&section=footer&fontSize=20" alt="Good Bye" />
 </p>
