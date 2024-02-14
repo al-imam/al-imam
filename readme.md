@@ -45,7 +45,7 @@ _*A web developer focused on React, TailwindCSS, TypeScript and Express. Excited
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a><a href="https://facebook.com/alimam.nirob">
     <img src="./icons/facebook.svg" width="48px" style="border-radius: 10px;" />
-  </a><a href="https://discord.gg/Al-Imam#4919">
+  </a><a href="https://discord.gg/alimam_">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a><a href="https://instagram.com/al_imam_x">
     <img src="https://skillicons.dev/icons?i=instagram" />
