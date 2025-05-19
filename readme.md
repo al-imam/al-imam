@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey,%20Imam%20here&height=150&section=header" alt="Hey, Imam here!" />
 </p>
 
-_*A web developer focused on React, TailwindCSS, TypeScript and Express. Excited to network and share insights on web development. Feel free to contact me if you need help building robust and efficient web applications, or want to discuss the latest trends!*_
+_*A web developer focused on React, TailwindCSS, TypeScript and Express. Excited to network and share insights on web development. Feel free to contact me if you need help building robust and efficient web applications, or want to discuss the latest tech!*_
 
 - 🔭 I’m currently working on React.
 - 👯 I’m looking to collaborate on single page application.
